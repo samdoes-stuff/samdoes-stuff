@@ -6,10 +6,10 @@ Hi! I am Saymon. That's it
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saymonislam924@gmail.com) 
 
 ### 🧠 My Codédex Achievements
-![Python Badge](<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/2bf69319-c9a5-4652-9ab8-219e43553dd8" />)
-![HTML Badge](<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/ee803d4c-ac7a-4f5f-822e-d4c2a80a37a1" />)
-![REACT Badge](<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/7fda3694-2ca4-4bac-9048-c0ff4f1be922" />)
-![Intermediate Python Badge](<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/5855bfa8-9d54-4a31-9bd6-425bd5b94362" />)
+![Python Badge](https://www.codedex.io/images/badges/goldenCourseBadges/python.png)
+![HTML Badge](https://www.codedex.io/images/badges/goldenCourseBadges/html.png)
+![REACT Badge](https://www.codedex.io/images/badges/goldenCourseBadges/react.png)
+![Intermediate Python Badge](https://www.codedex.io/images/badges/goldenCourseBadges/int-python.png)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
