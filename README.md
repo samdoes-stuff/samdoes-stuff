@@ -10,8 +10,6 @@ Hi! I am Saymon. That's it
 ![HTML Badge](https://www.codedex.io/images/badges/goldenCourseBadges/html.png)
 ![REACT Badge](https://www.codedex.io/images/badges/goldenCourseBadges/react.png)
 ![Intermediate Python Badge](https://www.codedex.io/images/badges/goldenCourseBadges/int-python.png)
-![Badge](https://www.codedex.io/images/badges/intermediate-python/data-structures.png)
-![Badge](https://www.codedex.io/images/badges/intermediate-python/file-and-error-handling.png)
 ![Badge](https://www.codedex.io/images/badges/intermediate-python/functional-programming.png)
 ![Badge](https://www.codedex.io/images/badges/intermediate-python/testing.png)
 ![Badge](https://www.codedex.io/images/badges/python/hello-world.png)
