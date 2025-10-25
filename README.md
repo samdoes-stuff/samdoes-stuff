@@ -10,6 +10,23 @@ Hi! I am Saymon. That's it
 ![HTML Badge](https://www.codedex.io/images/badges/goldenCourseBadges/html.png)
 ![REACT Badge](https://www.codedex.io/images/badges/goldenCourseBadges/react.png)
 ![Intermediate Python Badge](https://www.codedex.io/images/badges/goldenCourseBadges/int-python.png)
+![Badge](https://www.codedex.io/images/badges/intermediate-python/data-structures.png)
+![Badge](https://www.codedex.io/images/badges/intermediate-python/file-and-error-handling.png)
+![Badge](https://www.codedex.io/images/badges/intermediate-python/functional-programming.png)
+![Badge](https://www.codedex.io/images/badges/intermediate-python/testing.png)
+![Badge](https://www.codedex.io/images/badges/python/hello-world.png)
+![Badge](https://www.codedex.io/images/badges/python/variables.png)
+![Badge](https://www.codedex.io/images/badges/python/control-flow.png)
+![Badge](https://www.codedex.io/images/badges/python/loops.png)
+![Badge](https://www.codedex.io/images/badges/python/lists.png)
+![Badge](https://www.codedex.io/images/badges/python/functions.png)
+![Badge](https://www.codedex.io/images/badges/python/classes-and-objects.png)
+![Badge](https://www.codedex.io/images/badges/python/modules.png)
+![Badge](https://www.codedex.io/images/badges/html/elements.png)
+![Badge](https://www.codedex.io/images/badges/html/structure.png)
+![Badge](https://www.codedex.io/images/badges/html/forms.png)
+![Badge](https://www.codedex.io/images/badges/html/semantic-html.png)
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
